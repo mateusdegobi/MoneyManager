@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "333395704951",
+    "project_id": "moneygestor-ddcf6",
+    "storage_bucket": "moneygestor-ddcf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333395704951:android:d805298d16ad734306da72",
+        "android_client_info": {
+          "package_name": "com.moneygestor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333395704951-3ph9v18c3m2jdipcf65am73482kb9c6m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moneygestor",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "333395704951-g1ibjaq5653kthoaamabhb039aeso4k3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpgv_xHOw5uMvg9JyHIF6N3G6mIWq0Nhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333395704951-g1ibjaq5653kthoaamabhb039aeso4k3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
