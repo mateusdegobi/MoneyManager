@@ -5,6 +5,7 @@ import {GoogleSignin} from '@react-native-google-signin/google-signin';
 async function signInWithGoogle() {
   const {idToken} = await GoogleSignin.signIn();
   const googleCredential = auth.GoogleAuthProvider.credential(idToken);
+  console.log(idToken);
   return auth().signInWithCredential(googleCredential);
 }
 
